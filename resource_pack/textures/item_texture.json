@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "nus_resources",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "naruto_headband": {"textures": "textures/items/naruto_headband"},
+    "rasengan": {"textures": "textures/items/rasengan"},
+    "shadow_clone_scroll": {"textures": "textures/items/shadow_clone_scroll"}
+  }
+}

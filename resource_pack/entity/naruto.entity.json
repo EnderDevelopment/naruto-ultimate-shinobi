@@ -1,0 +1,15 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nus:naruto",
+      "materials": {"default": "entity_alphatest"},
+      "textures": {"default": "textures/entity/naruto"},
+      "geometry": {"default": "geometry.nus.naruto"},
+      "animations": {"idle": "animation.nus.naruto.idle", "run": "animation.nus.naruto.run", "attack": "animation.nus.naruto.attack", "controller": "controller.animation.nus.naruto"},
+      "scripts": {"animate": ["controller"]},
+      "render_controllers": ["controller.render.nus.naruto"],
+      "spawn_egg": {"base_color": "#F27B22", "overlay_color": "#1F2B52"}
+    }
+  }
+}

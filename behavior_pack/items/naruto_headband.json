@@ -1,0 +1,13 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {"identifier": "nus:naruto_headband", "menu_category": {"category": "equipment"}},
+    "components": {
+      "minecraft:icon": {"texture": "naruto_headband"},
+      "minecraft:display_name": {"value": "Naruto Headband"},
+      "minecraft:max_stack_size": 1,
+      "minecraft:use_modifiers": {"use_duration": 0.1, "movement_modifier": 1.0},
+      "minecraft:cooldown": {"category": "naruto_headband", "duration": 0.2}
+    }
+  }
+}

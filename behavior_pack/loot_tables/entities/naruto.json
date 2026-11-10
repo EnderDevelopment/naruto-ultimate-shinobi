@@ -1,0 +1,6 @@
+{
+  "pools": [{
+    "rolls": 1,
+    "entries": [{"type": "item", "name": "nus:naruto_headband", "weight": 1}]
+  }]
+}
